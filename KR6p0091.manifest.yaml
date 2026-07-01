@@ -1,0 +1,1721 @@
+canonical_identifier: bkk:krp/KR6p0091/v1
+canonical_location: https://kanripo.org/bkk/KR6p0091/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 淨土晨鐘
+  identifiers:
+    alt_id:
+    - X62n1172
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X62/X62n1172.xml
+    old_id: X62n1172
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0091_000.yaml, hash: 'sha256:260d10974486cd549c6f3556b561c1543fb92669475bcc209e6cdd06658d95b5'}
+  - {seq: 1, filename: KR6p0091_001.yaml, hash: 'sha256:6735230e1b403f93bbe28be374e21beb4e87d672d4dfc56169d6361303640c64'}
+  - {seq: 2, filename: KR6p0091_002.yaml, hash: 'sha256:2ca31bf51934d4b46294534962f8e727deb7b3c3a052fd48b70ec6cc9aee274a'}
+  - {seq: 3, filename: KR6p0091_003.yaml, hash: 'sha256:ed99c5e19be43257998871d05dd38cdf1ae33341e2530a6b85bd1c8a1852689b'}
+  - {seq: 4, filename: KR6p0091_004.yaml, hash: 'sha256:6997892cd11767d3f922fcbff7040905a6d2c8aff0d64ec36b08add9d7224c0c'}
+  - {seq: 5, filename: KR6p0091_005.yaml, hash: 'sha256:7e6addd69f05341e7d6251cca7dc185003c3f57102ead17ad39341f9e5ff8b6c'}
+  - {seq: 6, filename: KR6p0091_006.yaml, hash: 'sha256:85092350a92967d157889960ff32f30000052c96e072dfc3a2520aba697123be'}
+  - {seq: 7, filename: KR6p0091_007.yaml, hash: 'sha256:1059110147e2bf3c534e6ea6a9e844ddcb17ec2245229778815f387792e8ba7f'}
+  - {seq: 8, filename: KR6p0091_008.yaml, hash: 'sha256:1f538333028bf273ed4d1d39106ad5e577bb654a46ce63dda2809ff0023fbe1e'}
+  - {seq: 9, filename: KR6p0091_009.yaml, hash: 'sha256:44684eaea86ea106e6781036a06ee2aa149d4607bac4959c3def28a401028595'}
+  - {seq: 10, filename: KR6p0091_010.yaml, hash: 'sha256:26061a39aa9b25d2750df864ae9d9f6ef062fb8820c3027808075b5694933ec0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0091_000.markers.yaml, hash: 'sha256:60eaeb7830845362a9bb56ba5d73a4d2b6300303155fd289d8eeb66943dc0e82'}
+  - {seq: 1, role: markers, filename: assets/KR6p0091_001.markers.yaml, hash: 'sha256:1d607a09c4bb703eadba98dfe29689bd874f23f2160c26969cad815496cd114c'}
+  - {seq: 2, role: markers, filename: assets/KR6p0091_002.markers.yaml, hash: 'sha256:3f44ebf636a7650e74857067df6efdb726632cbf1673ac362b70fc6be2cdb166'}
+  - {seq: 3, role: markers, filename: assets/KR6p0091_003.markers.yaml, hash: 'sha256:a699739582edb3031e9daac23321b31bcdf063133d6204519447214f23c0534b'}
+  - {seq: 4, role: markers, filename: assets/KR6p0091_004.markers.yaml, hash: 'sha256:11568069103e3337e05c890b6daf04013efce20b5a64d6c5ea07700c3abdcb3d'}
+  - {seq: 5, role: markers, filename: assets/KR6p0091_005.markers.yaml, hash: 'sha256:054e13e7eeab600b27737bb13e32624c212918d0e3c619217e98dfc8bf59a74b'}
+  - {seq: 6, role: markers, filename: assets/KR6p0091_006.markers.yaml, hash: 'sha256:e670dc25ed88e31e359944cb87cd4d3ff86b8195f7f8dcf9ad4d4cc55970b694'}
+  - {seq: 7, role: markers, filename: assets/KR6p0091_007.markers.yaml, hash: 'sha256:404e5c2b4b562227f75988d757342d63d44ebae65f64b190b111a1dc44aa6812'}
+  - {seq: 8, role: markers, filename: assets/KR6p0091_008.markers.yaml, hash: 'sha256:9941886dea71d8364937755af7e13fd5548b17793fa0d4b4d53b0a370e13b777'}
+  - {seq: 9, role: markers, filename: assets/KR6p0091_009.markers.yaml, hash: 'sha256:0355b33d5a6d76af3c4abeff18dfc165b3dd569348fb404a5374c2fe9245aedd'}
+  - {seq: 10, role: markers, filename: assets/KR6p0091_010.markers.yaml, hash: 'sha256:d7b38a7d1246a0c25c03a403bbc70cb99c05f40297e905861c561ddbb93fbfdf'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0091_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1172-A 淨土晨鐘自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0091_X_000-mulu-2
+    span:
+    - front
+    - 2132
+    - 2132
+  label: 淨土晨鐘目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0091_X_000-mulu-3
+    span:
+    - front
+    - 3399
+    - 3399
+  label: No. 1172-B 勸流通淨土晨鐘引
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0091_X_000-mulu-4
+    span:
+    - front
+    - 3872
+    - 3872
+  label: 晨課
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0091_X_000-mulu-5
+    span:
+    - front
+    - 3929
+    - 3929
+  label: 觀無量壽佛經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0091_X_000-mulu-6
+    span:
+    - front
+    - 4267
+    - 4267
+  label: 般若波羅蜜多心經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0091_X_000-mulu-7
+    span:
+    - front
+    - 4535
+    - 4535
+  label: 楞嚴大勢至菩薩念佛章
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0091_X_000-mulu-8
+    span:
+    - front
+    - 4830
+    - 4830
+  label: 淨土夕課
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0091_X_000-mulu-9
+    span:
+    - front
+    - 4873
+    - 4873
+  label: 阿彌陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0091_X_000-mulu-10
+    span:
+    - front
+    - 6740
+    - 6740
+  label: 拔一切業障根本得生淨土陀羅尼
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0091_X_000-mulu-11
+    span:
+    - front
+    - 6821
+    - 6821
+  label: 念佛文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0091_X_000-mulu-12
+    span:
+    - front
+    - 7609
+    - 7609
+  label: 又慈雲懺主願文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0091_X_000-mulu-13
+    span:
+    - front
+    - 7793
+    - 7793
+  label: 善導和尚臨睡入觀文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5151
+  label: 淨土晨鐘卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-1
+    span:
+    - body
+    - 24
+    - 24
+  label: 原始一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-2
+    span:
+    - body
+    - 117
+    - 117
+  label: 阿彌陀佛成佛之始
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-3
+    span:
+    - body
+    - 285
+    - 285
+  label: 阿彌現淨土釋迦現穢土之始
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-4
+    span:
+    - body
+    - 425
+    - 425
+  label: 佛為韋提希聖后說淨業正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-5
+    span:
+    - body
+    - 677
+    - 677
+  label: 九品往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-6
+    span:
+    - body
+    - 1425
+    - 1425
+  label: 佛為父王說念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-7
+    span:
+    - body
+    - 1598
+    - 1598
+  label: 龍樹菩薩勸念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-8
+    span:
+    - body
+    - 1753
+    - 1753
+  label: 佛示人念佛十種功德
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-9
+    span:
+    - body
+    - 2012
+    - 2012
+  label: 淨土往生之因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-10
+    span:
+    - body
+    - 2307
+    - 2307
+  label: 阿彌陀佛度生之因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-11
+    span:
+    - body
+    - 2967
+    - 2967
+  label: 釋迦勸人念佛之因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-12
+    span:
+    - body
+    - 3223
+    - 3223
+  label: 釋迦開導淨土之因
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-13
+    span:
+    - body
+    - 3707
+    - 3707
+  label: 四土往生本末
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0091_X_001-mulu-14
+    span:
+    - body
+    - 4661
+    - 4661
+  label: 三界六道輪迴本末
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 7542
+  label: 淨土晨鐘卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 啟信二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-2
+    span:
+    - body
+    - 171
+    - 171
+  label: 淨土有益生前不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-3
+    span:
+    - body
+    - 557
+    - 557
+  label: 淨土不妨俗事不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-4
+    span:
+    - body
+    - 871
+    - 871
+  label: 淨土佛無妄語不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-5
+    span:
+    - body
+    - 1227
+    - 1227
+  label: 淨土一念必生不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-6
+    span:
+    - body
+    - 1526
+    - 1526
+  label: 淨土脚踏實地不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-7
+    span:
+    - body
+    - 2124
+    - 2124
+  label: 淨土非仙可比不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-8
+    span:
+    - body
+    - 2458
+    - 2458
+  label: 淨土因果不妄不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-9
+    span:
+    - body
+    - 2993
+    - 2993
+  label: 淨土如明鏡日月不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-10
+    span:
+    - body
+    - 3243
+    - 3243
+  label: 淨土正信為要不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-11
+    span:
+    - body
+    - 4157
+    - 4157
+  label: 淨土該戒定慧不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-12
+    span:
+    - body
+    - 4560
+    - 4560
+  label: 淨土獨推阿彌不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-13
+    span:
+    - body
+    - 5012
+    - 5012
+  label: 淨土苦樂相比不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-14
+    span:
+    - body
+    - 5440
+    - 5440
+  label: 淨土為難信法不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-15
+    span:
+    - body
+    - 5875
+    - 5875
+  label: 淨土了生死橫出三界不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-16
+    span:
+    - body
+    - 6245
+    - 6245
+  label: 淨土念佛有力不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6p0091_X_002-mulu-17
+    span:
+    - body
+    - 6784
+    - 6784
+  label: 淨土諸聖尊宿同歸不可不信
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 5257
+  label: 淨土晨鐘卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 勸修三
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-mulu-2
+    span:
+    - body
+    - 365
+    - 365
+  label: 勸急辨大事不可不修
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-mulu-3
+    span:
+    - body
+    - 831
+    - 831
+  label: 勸活物活計不可不修
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-mulu-4
+    span:
+    - body
+    - 1182
+    - 1182
+  label: 勸神隨業往不可不修
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-mulu-5
+    span:
+    - body
+    - 1659
+    - 1659
+  label: 勸兜率不如西方不可不修
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-mulu-6
+    span:
+    - body
+    - 1843
+    - 1843
+  label: 勸宿債須還富貴易墮不可不修
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-mulu-7
+    span:
+    - body
+    - 2297
+    - 2297
+  label: 勸為後身計不可不修
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-mulu-8
+    span:
+    - body
+    - 2726
+    - 2726
+  label: 勸佛心為心轉勸人人
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-mulu-9
+    span:
+    - body
+    - 3084
+    - 3084
+  label: 勸隨遇隨勸度盡眾生
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-mulu-10
+    span:
+    - body
+    - 3496
+    - 3496
+  label: 勸出世間孝勸二親修
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-mulu-11
+    span:
+    - body
+    - 3675
+    - 3675
+  label: 勸人人念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-mulu-12
+    span:
+    - body
+    - 4029
+    - 4029
+  label: 勸真實念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6p0091_X_003-mulu-13
+    span:
+    - body
+    - 4274
+    - 4274
+  label: 勸學者念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 5873
+  label: 淨土晨鐘卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 念佛法門四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-2
+    span:
+    - body
+    - 362
+    - 362
+  label: 十聲念佛誦偈法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-3
+    span:
+    - body
+    - 656
+    - 656
+  label: 十氣十念法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-4
+    span:
+    - body
+    - 778
+    - 778
+  label: 六時晨昏念佛法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-5
+    span:
+    - body
+    - 1058
+    - 1058
+  label: 懺罪念佛法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-6
+    span:
+    - body
+    - 1201
+    - 1201
+  label: 一相念佛三昧法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-7
+    span:
+    - body
+    - 1387
+    - 1387
+  label: 攝心調息念佛三昧法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-8
+    span:
+    - body
+    - 1831
+    - 1831
+  label: 參禪念佛三昧法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-9
+    span:
+    - body
+    - 2247
+    - 2247
+  label: 總論持名念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-10
+    span:
+    - body
+    - 2689
+    - 2689
+  label: 總論念佛事理一念
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-11
+    span:
+    - body
+    - 3274
+    - 3274
+  label: 禮念時觀想法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-12
+    span:
+    - body
+    - 3498
+    - 3498
+  label: 觀想佛毫法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-13
+    span:
+    - body
+    - 3805
+    - 3805
+  label: 一心三觀念佛三昧法門
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-14
+    span:
+    - body
+    - 4216
+    - 4216
+  label: 論約心觀佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-15
+    span:
+    - body
+    - 4601
+    - 4601
+  label: 論一心三觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6p0091_X_004-mulu-16
+    span:
+    - body
+    - 5177
+    - 5177
+  label: 論圓修三觀生四淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 8753
+  label: 淨土晨鐘卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 功行法門五
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-2
+    span:
+    - body
+    - 429
+    - 429
+  label: 孝養父母正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-3
+    span:
+    - body
+    - 839
+    - 839
+  label: 慈心不殺正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-4
+    span:
+    - body
+    - 1573
+    - 1573
+  label: 持戒十善正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-5
+    span:
+    - body
+    - 3577
+    - 3577
+  label: 發菩提心正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-6
+    span:
+    - body
+    - 3817
+    - 3817
+  label: 讀誦大乘正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-7
+    span:
+    - body
+    - 4135
+    - 4135
+  label: 淨心行善正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-8
+    span:
+    - body
+    - 4657
+    - 4657
+  label: 奉行眾善正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-9
+    span:
+    - body
+    - 5265
+    - 5265
+  label: 布施正因
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-10
+    span:
+    - body
+    - 5656
+    - 5656
+  label: 方便利人助修
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-11
+    span:
+    - body
+    - 5923
+    - 5923
+  label: 廉儉助修
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-12
+    span:
+    - body
+    - 6273
+    - 6273
+  label: 不妄取財助修
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-13
+    span:
+    - body
+    - 6593
+    - 6593
+  label: 省口腹淫慾助修
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-14
+    span:
+    - body
+    - 6848
+    - 6848
+  label: 兼福慧助修
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-15
+    span:
+    - body
+    - 7082
+    - 7082
+  label: 不慕尊榮不辭輕蔑助修
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-16
+    span:
+    - body
+    - 7348
+    - 7348
+  label: 禮懺助修
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-17
+    span:
+    - body
+    - 7628
+    - 7628
+  label: 施食助修
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-18
+    span:
+    - body
+    - 7976
+    - 7976
+  label: 放生助修
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6p0091_X_005-mulu-19
+    span:
+    - body
+    - 8430
+    - 8430
+  label: 居官助修
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0091_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 5890
+  label: 淨土晨鐘卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0091_X_006-mulu-1
+    span:
+    - body
+    - 22
+    - 22
+  label: 䇿進六
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0091_X_006-mulu-2
+    span:
+    - body
+    - 311
+    - 311
+  label: 䇿願力
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0091_X_006-mulu-3
+    span:
+    - body
+    - 900
+    - 900
+  label: 䇿勇猛精進
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0091_X_006-mulu-4
+    span:
+    - body
+    - 2262
+    - 2262
+  label: 䇿攝心悟心
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0091_X_006-mulu-5
+    span:
+    - body
+    - 2728
+    - 2728
+  label: 䇿三種念佛成佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0091_X_006-mulu-6
+    span:
+    - body
+    - 3060
+    - 3060
+  label: 䇿出家人一心正念
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0091_X_006-mulu-7
+    span:
+    - body
+    - 4200
+    - 4200
+  label: 䇿在家人一心正念
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6p0091_X_006-mulu-8
+    span:
+    - body
+    - 4946
+    - 4946
+  label: 䇿老者病者一心正念
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0091_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 3923
+  label: 淨土晨鐘卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0091_X_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 飭終七
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0091_X_007-mulu-2
+    span:
+    - body
+    - 407
+    - 407
+  label: 飭臨終往生正念
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0091_X_007-mulu-3
+    span:
+    - body
+    - 1188
+    - 1188
+  label: 飭臨終三疑四關
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0091_X_007-mulu-4
+    span:
+    - body
+    - 1670
+    - 1670
+  label: 飭十念往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0091_X_007-mulu-5
+    span:
+    - body
+    - 2180
+    - 2180
+  label: 飭父母往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0091_X_007-mulu-6
+    span:
+    - body
+    - 2295
+    - 2295
+  label: 飭眷屬往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0091_X_007-mulu-7
+    span:
+    - body
+    - 2563
+    - 2563
+  label: 飭護病者
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0091_X_007-mulu-8
+    span:
+    - body
+    - 2676
+    - 2676
+  label: 飭自念佛度冤親
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0091_X_007-mulu-9
+    span:
+    - body
+    - 2835
+    - 2835
+  label: 飭臨終請眾念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6p0091_X_007-mulu-10
+    span:
+    - body
+    - 2951
+    - 2951
+  label: 飭未終思終念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 8917
+  label: 淨土晨鐘卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 正辨八
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-2
+    span:
+    - body
+    - 272
+    - 272
+  label: 辨生淨土救眾生為易行道
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-3
+    span:
+    - body
+    - 722
+    - 722
+  label: 辨見性悟道勿輕淨土
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-4
+    span:
+    - body
+    - 1011
+    - 1011
+  label: 辨不修淨土五惑
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-5
+    span:
+    - body
+    - 1599
+    - 1599
+  label: 辨禪淨同歸勿空談理性而廢事相
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-6
+    span:
+    - body
+    - 2290
+    - 2290
+  label: 辨念佛有益參禪
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-7
+    span:
+    - body
+    - 2443
+    - 2443
+  label: 辨禪宗淨土遲速
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-8
+    span:
+    - body
+    - 2632
+    - 2632
+  label: 辨得悟正宜往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-9
+    span:
+    - body
+    - 2787
+    - 2787
+  label: 辨心境非二淨土不可言無
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-10
+    span:
+    - body
+    - 3054
+    - 3054
+  label: 辨淨土專志西方
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-11
+    span:
+    - body
+    - 3212
+    - 3212
+  label: 辨念佛修觀非執着取相
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-12
+    span:
+    - body
+    - 3403
+    - 3403
+  label: 辨念佛不可輕視
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-13
+    span:
+    - body
+    - 3534
+    - 3534
+  label: 辨參究念佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-14
+    span:
+    - body
+    - 3703
+    - 3703
+  label: 辨念佛融通宗教
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-15
+    span:
+    - body
+    - 3848
+    - 3848
+  label: 辨念佛心性身名
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-16
+    span:
+    - body
+    - 4063
+    - 4063
+  label: 辨理事非二心
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-17
+    span:
+    - body
+    - 4184
+    - 4184
+  label: 辨宜繁宜簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-18
+    span:
+    - body
+    - 4357
+    - 4357
+  label: 辨往生早暮功決不虗
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-19
+    span:
+    - body
+    - 4435
+    - 4435
+  label: 辨一念往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-20
+    span:
+    - body
+    - 4619
+    - 4619
+  label: 辨念力重大
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-21
+    span:
+    - body
+    - 4954
+    - 4954
+  label: 辨業性本空
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-22
+    span:
+    - body
+    - 5134
+    - 5134
+  label: 辨心量廣大淨土非遠
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-23
+    span:
+    - body
+    - 5444
+    - 5444
+  label: 辨自心佛現
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-24
+    span:
+    - body
+    - 5586
+    - 5586
+  label: 辨不往而往無生而生
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-25
+    span:
+    - body
+    - 5795
+    - 5795
+  label: 辨欣厭取捨
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-26
+    span:
+    - body
+    - 6276
+    - 6276
+  label: 辨不信佛論
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6p0091_X_008-mulu-27
+    span:
+    - body
+    - 8341
+    - 8341
+  label: 附王載生佛法入中國考
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0091_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 9915
+  label: 淨土晨鐘卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0091_X_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 了俗九
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0091_X_009-mulu-2
+    span:
+    - body
+    - 274
+    - 274
+  label: 了色身之妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0091_X_009-mulu-3
+    span:
+    - body
+    - 2417
+    - 2417
+  label: 了世染之妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0091_X_009-mulu-4
+    span:
+    - body
+    - 3791
+    - 3791
+  label: 了富貴之妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0091_X_009-mulu-5
+    span:
+    - body
+    - 4257
+    - 4257
+  label: 了浮生之妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0091_X_009-mulu-6
+    span:
+    - body
+    - 4740
+    - 4740
+  label: 了生死之妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0091_X_009-mulu-7
+    span:
+    - body
+    - 6456
+    - 6456
+  label: 了物緣之妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0091_X_009-mulu-8
+    span:
+    - body
+    - 7406
+    - 7406
+  label: 了心念之妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0091_X_009-mulu-9
+    span:
+    - body
+    - 8179
+    - 8179
+  label: 了邪教之妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0091_X_009-mulu-10
+    span:
+    - body
+    - 9616
+    - 9616
+  label: 附破寄庫無益
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6p0091_X_009-mulu-11
+    span:
+    - body
+    - 9762
+    - 9762
+  label: 附誦經三戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0091_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 19174
+  label: 淨土晨鐘卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0091_X_010-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 持驗十
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0091_X_010-mulu-2
+    span:
+    - body
+    - 387
+    - 387
+  label: 比丘往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0091_X_010-mulu-3
+    span:
+    - body
+    - 9305
+    - 9305
+  label: 宰官往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0091_X_010-mulu-4
+    span:
+    - body
+    - 12722
+    - 12722
+  label: 附念佛出獄三則
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0091_X_010-mulu-5
+    span:
+    - body
+    - 13493
+    - 13493
+  label: 士民往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0091_X_010-mulu-6
+    span:
+    - body
+    - 15117
+    - 15117
+  label: 尼僧往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0091_X_010-mulu-7
+    span:
+    - body
+    - 15447
+    - 15447
+  label: 婦女往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0091_X_010-mulu-8
+    span:
+    - body
+    - 17532
+    - 17532
+  label: 附惡人往生
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6p0091_X_010-mulu-9
+    span:
+    - body
+    - 18344
+    - 18344
+  label: 附物類往生
+  type: mulu
+  level: 1
+hash: sha256:4549d5cae27b3a8dc4e54e585491934098c8667898b1fc1848e978ff15dae398
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
