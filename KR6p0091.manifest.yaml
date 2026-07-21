@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0091_000.yaml, hash: 'sha256:ebc62de6c3833841da032bb8af44af7b20f5d52ac4d74b2e2e8bd56857bd3064'}
+  - {seq: 0, filename: KR6p0091_000.yaml, hash: 'sha256:4f5bf56be6e73c8096261d6f58c3b8d7da80e8594f6fc390cba6230f3f9fed6f'}
   - {seq: 1, filename: KR6p0091_001.yaml, hash: 'sha256:1730db9ed57705e05be61b1083e3ca656fc0682ccd52a72a6893853d5127701c'}
   - {seq: 2, filename: KR6p0091_002.yaml, hash: 'sha256:48108dbb6e85e8c5b1160d3a2bc673b68b9b6597452f0ac8b7e422379ebe6acf'}
   - {seq: 3, filename: KR6p0091_003.yaml, hash: 'sha256:43ecc9c5f03c299cddc9ba13369dbee688bb68f6da8b58cac554ba8473a09f61'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6p0091_009.yaml, hash: 'sha256:a33ca2d67f285ba47d609541b84e75586098c2e766ab64c9aa37b1b094c49206'}
   - {seq: 10, filename: KR6p0091_010.yaml, hash: 'sha256:acba8c6d11246b05eaf7711761f691b8e323201cc39975a55b955f5438ce128d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0091_000.markers.yaml, hash: 'sha256:47e979efb5bda8de0f0d5c8427c75c7371c1970ec0cbff9b621a254aa6acf0fa'}
+  - {seq: 0, role: markers, filename: assets/KR6p0091_000.markers.yaml, hash: 'sha256:62c619f4bdbf7f5066e3e2d2ca3f9d42c107162893ca5124a6864d2d27083c50'}
   - {seq: 1, role: markers, filename: assets/KR6p0091_001.markers.yaml, hash: 'sha256:d0a4b89e333e6888355b8c1fecc2a4d67405348101884f607187041f01d0fe6a'}
   - {seq: 2, role: markers, filename: assets/KR6p0091_002.markers.yaml, hash: 'sha256:7ee681700faefd35ac1477c015b8fc0d3d0ee7b83128371eaf4de7ff2cf95499'}
   - {seq: 3, role: markers, filename: assets/KR6p0091_003.markers.yaml, hash: 'sha256:eed32e78e9fc355b709c9b24164d734ea3892c6dc18bb6bcefccba31edec95a6'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1172-A 淨土晨鐘自序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-2
     span:
-    - front
+    - body
     - 2132
     - 2132
   label: 淨土晨鐘目錄
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-3
     span:
-    - front
+    - body
     - 3399
     - 3399
   label: No. 1172-B 勸流通淨土晨鐘引
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-4
     span:
-    - front
+    - body
     - 3872
     - 3872
   label: 晨課
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-5
     span:
-    - front
+    - body
     - 3929
     - 3929
   label: 觀無量壽佛經
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-6
     span:
-    - front
+    - body
     - 4267
     - 4267
   label: 般若波羅蜜多心經
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-7
     span:
-    - front
+    - body
     - 4535
     - 4535
   label: 楞嚴大勢至菩薩念佛章
@@ -119,7 +119,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-8
     span:
-    - front
+    - body
     - 4830
     - 4830
   label: 淨土夕課
@@ -129,7 +129,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-9
     span:
-    - front
+    - body
     - 4873
     - 4873
   label: 阿彌陀經
@@ -139,7 +139,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-10
     span:
-    - front
+    - body
     - 6740
     - 6740
   label: 拔一切業障根本得生淨土陀羅尼
@@ -149,7 +149,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-11
     span:
-    - front
+    - body
     - 6821
     - 6821
   label: 念佛文
@@ -159,7 +159,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-12
     span:
-    - front
+    - body
     - 7609
     - 7609
   label: 又慈雲懺主願文
@@ -169,7 +169,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-13
     span:
-    - front
+    - body
     - 7793
     - 7793
   label: 善導和尚臨睡入觀文
@@ -1715,7 +1715,7 @@ table_of_contents:
   label: 附物類往生
   type: mulu
   level: 1
-hash: sha256:c243fa7fa9cf3e77006b6619130ecb22d3567fa9752ff2fcee8d27c174fb056a
+hash: sha256:efb5679879ebd8216c9c4964ecd07787813d570466bfba9f5dcb248292ae1d91
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

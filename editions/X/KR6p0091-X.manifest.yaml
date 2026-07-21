@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0091_000-X.yaml, hash: 'sha256:89cecb7eaf97dc1fa3744fd0ca5ba3ccff228e2f53a771002268f5f112a7ba50'}
+  - {seq: 0, filename: KR6p0091_000-X.yaml, hash: 'sha256:1163d10826b8065d7d6d15dcb08627ce30042ae86a61f0f2f875fd8d5bae6c30'}
   - {seq: 1, filename: KR6p0091_001-X.yaml, hash: 'sha256:086151d644965cfad31db20a8bb8c7f12f379404bbd116ebb2cacc5e9869c2c0'}
   - {seq: 2, filename: KR6p0091_002-X.yaml, hash: 'sha256:a0e97407ffae6eaf3b7d90fc50b80a33fbf3ff7160863ec4bc0b6b75919367ec'}
   - {seq: 3, filename: KR6p0091_003-X.yaml, hash: 'sha256:f75d869384cff80a14ddfdee21a8322de35301a2117e2c9818e9309b32550357'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6p0091_009-X.yaml, hash: 'sha256:29a8727c79d58f46e96486e00046eebc869dd26dc924cbbb3bb3d205301fc509'}
   - {seq: 10, filename: KR6p0091_010-X.yaml, hash: 'sha256:1e788a850b4c53e066f6d8523f39bbac7ac3c366b51661094cd0bcb1f3e66922'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0091_000-X.markers.yaml, hash: 'sha256:3c9143aa816d7fe4c2978f7a107cc57a67497b9ecd963ee73a85333b6c414d3b'}
+  - {seq: 0, role: markers, filename: assets/KR6p0091_000-X.markers.yaml, hash: 'sha256:c79227ccea54bffa85cabd90ee432ff8cd0f919c918b92dcde6bb32d65bb80f3'}
   - {seq: 1, role: markers, filename: assets/KR6p0091_001-X.markers.yaml, hash: 'sha256:876a5bb16f296d03015b80724d33a2fe09fec4102f16a4e507cdcaff7934d87e'}
   - {seq: 2, role: markers, filename: assets/KR6p0091_002-X.markers.yaml, hash: 'sha256:c727710f14117c7a643ddba2d0b6acf39e3dca13b5020c8318207a3ae75c2205'}
   - {seq: 3, role: markers, filename: assets/KR6p0091_003-X.markers.yaml, hash: 'sha256:eff0e1abdc7acaffb882d17bff7324b538cb6b43638c82b74e54ccb870859f00'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1172-A 淨土晨鐘自序
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-2
     span:
-    - front
+    - body
     - 2132
     - 2132
   label: 淨土晨鐘目錄
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-3
     span:
-    - front
+    - body
     - 3399
     - 3399
   label: No. 1172-B 勸流通淨土晨鐘引
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-4
     span:
-    - front
+    - body
     - 3872
     - 3872
   label: 晨課
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-5
     span:
-    - front
+    - body
     - 3929
     - 3929
   label: 觀無量壽佛經
@@ -97,7 +97,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-6
     span:
-    - front
+    - body
     - 4267
     - 4267
   label: 般若波羅蜜多心經
@@ -107,7 +107,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-7
     span:
-    - front
+    - body
     - 4535
     - 4535
   label: 楞嚴大勢至菩薩念佛章
@@ -117,7 +117,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-8
     span:
-    - front
+    - body
     - 4830
     - 4830
   label: 淨土夕課
@@ -127,7 +127,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-9
     span:
-    - front
+    - body
     - 4873
     - 4873
   label: 阿彌陀經
@@ -137,7 +137,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-10
     span:
-    - front
+    - body
     - 6740
     - 6740
   label: 拔一切業障根本得生淨土陀羅尼
@@ -147,7 +147,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-11
     span:
-    - front
+    - body
     - 6821
     - 6821
   label: 念佛文
@@ -157,7 +157,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-12
     span:
-    - front
+    - body
     - 7609
     - 7609
   label: 又慈雲懺主願文
@@ -167,7 +167,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0091_X_000-mulu-13
     span:
-    - front
+    - body
     - 7793
     - 7793
   label: 善導和尚臨睡入觀文
@@ -1713,4 +1713,4 @@ table_of_contents:
   label: 附物類往生
   type: mulu
   level: 1
-hash: sha256:7983516ee5cae33c386661c65f4b5772b0b0315dfa68f22b546b7ba0f8820483
+hash: sha256:b4d38f635043e9f4e882eb30868bc95a85f3473f145d950cda3458d91bf917d0
